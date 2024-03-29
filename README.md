@@ -1,2 +1,1 @@
-# spreadsheet
-Created a spreadsheet for Bad Website Club's bootcamp
+Created a spreadsheet for Bad Website Club's bootcamp using [freeCodeCamp's Javascript and Data Structures curriculum.](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-functional-programming-by-building-a-spreadsheet/step-1)
